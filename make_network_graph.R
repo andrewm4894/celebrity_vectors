@@ -3,7 +3,7 @@
 ######################
 
 # set working dir
-setwd('C:/Users/Andrew/Documents/pmc-analytical-data-mart/celeb_vectors')
+setwd('C:/Users/Andrew/Documents/celeb_vectors')
 
 # load libs
 library(igraph)
